@@ -38,4 +38,3 @@ zip and extract it over the old folder, or into a new one: your accounts and set
 
 ---
 
-Copyright (c) 2026 nixxane. All rights reserved. Do not redistribute or rebrand.
